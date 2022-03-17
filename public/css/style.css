@@ -1,0 +1,56 @@
+
+.navbar{
+    background-color: #1B0088 !important;
+    font-weight: bold !important;
+}
+
+.plane-contain{
+    margin-top: 50px;
+    padding: 30px;
+    font-weight: bold !important;
+}
+
+.plane-contain p {
+    font-size: 22px;
+}
+.plane{
+    height: 200px;
+}
+
+.card{
+    margin-bottom: 50px;
+}
+
+.hotel-contain{
+    margin-top: 50px;
+    padding: 30px;
+    font-weight: bold !important;
+}
+
+
+.destino-contain{
+    margin-top: 50px;
+    padding: 30px;
+    font-weight: bold !important;
+}
+
+.help-contain{
+    margin-top: 50px;
+    padding: 30px;
+    font-weight: bold !important;
+}
+
+.pr-freq{
+
+    font-size: 30px;
+
+}
+
+.freq-b{
+    font-size: 20px;
+}
+
+.btn-primary{
+    background-color: #1B0088 !important;
+    border: none !important;
+}
